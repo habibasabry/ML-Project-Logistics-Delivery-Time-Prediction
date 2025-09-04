@@ -44,3 +44,17 @@ The project follows a structured workflow:
 - A potential decision-support tool for logistics companies to enhance customer satisfaction.
 
 This project demonstrates how machine learning can be applied to address practical, real-world challenges in the logistics industry.
+
+
+
+## Deployment Part
+
+### Block Diagram
+Preprocessing → Model Training → Evaluation → Deployment.  
+![Block Diagram](diagrams/diagram_page9_0.png)
+
+### System Architecture (Dataset, Preprocessing, Models, Results).  
+![System Architecture](diagrams/diagram_page10_0.png)
+
+### Semantic Network (Use Case)  
+![Semantic Network](diagrams/diagram_page11_0.png)
