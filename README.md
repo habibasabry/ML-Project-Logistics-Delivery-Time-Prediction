@@ -1,4 +1,4 @@
-# ML-Project-Logistics-Delivery-Time-Prediction
+<img width="540" height="547" alt="download (1)" src="https://github.com/user-attachments/assets/980e2b8d-a92e-447b-a597-a13b52ed0520" /># ML-Project-Logistics-Delivery-Time-Prediction
 📦 Machine Learning project for predicting delivery times in logistics. Uses real-world data to analyze factors like distance, traffic, and order details. Trains and evaluates models (Linear Regression, Random Forest) to optimize delivery schedules and improve customer satisfaction.
 
 
@@ -44,3 +44,16 @@ The project follows a structured workflow:
 - A potential decision-support tool for logistics companies to enhance customer satisfaction.
 
 This project demonstrates how machine learning can be applied to address practical, real-world challenges in the logistics industry.
+
+
+## Deployment Part
+
+### Block Diagram
+Preprocessing → Model Training → Evaluation → Deployment.  
+
+
+### System Architecture (Dataset, Preprocessing, Models, Results).  
+
+
+### Semantic Network (Use Case)  
+
