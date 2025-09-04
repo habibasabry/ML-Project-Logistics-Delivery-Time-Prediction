@@ -46,14 +46,4 @@ The project follows a structured workflow:
 This project demonstrates how machine learning can be applied to address practical, real-world challenges in the logistics industry.
 
 
-## Deployment Part
-
-### Block Diagram
-Preprocessing → Model Training → Evaluation → Deployment.  
-
-
-### System Architecture (Dataset, Preprocessing, Models, Results).  
-
-
-### Semantic Network (Use Case)  
 
