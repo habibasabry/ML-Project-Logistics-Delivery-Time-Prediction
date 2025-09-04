@@ -48,6 +48,8 @@ This project demonstrates how machine learning can be applied to address practic
 
 
 ## Deployment Part
+### Accsses The google Colab Link
+https://colab.research.google.com/drive/13s7XdHVB9jrGNYDjZ0PlPxI-ZxzbNtSs#scrollTo=iKyZ-2pwwi3g
 
 ### Block Diagram
 Preprocessing → Model Training → Evaluation → Deployment.  
