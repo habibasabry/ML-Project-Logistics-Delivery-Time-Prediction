@@ -46,4 +46,8 @@ The project follows a structured workflow:
 This project demonstrates how machine learning can be applied to address practical, real-world challenges in the logistics industry.
 
 
+#  Google Colab link 
+- https://colab.research.google.com/drive/13s7XdHVB9jrGNYDjZ0PlPxI-ZxzbNtSs
+
+
 
